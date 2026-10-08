@@ -7,7 +7,7 @@ The investigation covers the identification of suspicious activity, reconstructi
 
 The project demonstrates an end-to-end incident response process from ***detection through recovery and validation***.
 
-###Key Areas
+### Key Areas
 -Incident detection and triage
 -Web server and application log analysis
 -Attack timeline reconstruction
@@ -20,7 +20,7 @@ The project demonstrates an end-to-end incident response process from ***detecti
 -Business and financial impact assessment
 
 
-###Incident Response Lifecycle
+### Incident Response Lifecycle
 Detection
    ↓
 Investigation
@@ -36,7 +36,7 @@ Validation
 Lessons Learned
 
 
-###Tools & Technologies
+### Tools & Technologies
 -WordPress
 -Web server logs
 -SQL/database analysis
@@ -45,12 +45,12 @@ Lessons Learned
 -Incident response methodologies
 -MITRE ATT&CK concepts
 
-###Project Deliverables
-📄 View the Full Incident Report
+### Project Deliverables
+ View the Full Incident Report
 
 The full report includes the investigation timeline, findings, evidence, response actions, business impact, and lessons learned.
 
-Skills Demonstrated
+### Skills Demonstrated
 This project demonstrates practical skills in:
 
 ***Incident Response · SOC Analysis · Threat Detection · Log Analysis · Vulnerability Management · Web Application Security · Digital Forensics · Risk Assessment***
