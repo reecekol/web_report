@@ -55,5 +55,5 @@ This project demonstrates practical skills in:
 
 ***Incident Response · SOC Analysis · Threat Detection · Log Analysis · Vulnerability Management · Web Application Security · Digital Forensics · Risk Assessment***
 
-###Disclaimer
+### Disclaimer
 This project is provided for educational and portfolio purposes. The report presents a retrospective analysis of a web server compromise and does not involve unauthorized access or exploitation of live systems.
