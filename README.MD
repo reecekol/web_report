@@ -1,5 +1,5 @@
 # Web Server Compromise Incident Response Case Study
-     A cybersecurity incident response case study involving the compromise of a WordPress web server.
+A cybersecurity incident response case study involving the compromise of a WordPress web server.
 
 ### Overview
 This project documents an investigation into a compromised WordPress web server following the exploitation of a vulnerable third-party plugin.
