@@ -46,7 +46,7 @@ Lessons Learned
 - MITRE ATT&CK concepts
 
 ### Project Deliverables
- [View the Full Incident Report](report.pdf)
+ [View the Full Incident Report](_report.pdf)
 
 The full report includes the investigation timeline, findings, evidence, response actions, business impact, and lessons learned.
 
