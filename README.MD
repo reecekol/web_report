@@ -8,16 +8,16 @@ The investigation covers the identification of suspicious activity, reconstructi
 The project demonstrates an end-to-end incident response process from ***detection through recovery and validation***.
 
 ### Key Areas
--Incident detection and triage
--Web server and application log analysis
--Attack timeline reconstruction
--Web application security
--Malware and web shell investigation
--Persistence analysis
--Vulnerability identification and remediation
--Incident containment and recovery
--Post-remediation validation
--Business and financial impact assessment
+- Incident detection and triage
+- Web server and application log analysis
+- Attack timeline reconstruction
+- Web application security
+- Malware and web shell investigation
+- Persistence analysis
+- Vulnerability identification and remediation
+- Incident containment and recovery
+- Post-remediation validation
+- Business and financial impact assessment
 
 
 ### Incident Response Lifecycle
@@ -37,13 +37,13 @@ Lessons Learned
 
 
 ### Tools & Technologies
--WordPress
--Web server logs
--SQL/database analysis
--Vulnerability scanning
--Linux server administration
--Incident response methodologies
--MITRE ATT&CK concepts
+- WordPress
+- Web server logs
+- SQL/database analysis
+- Vulnerability scanning
+- Linux server administration
+- Incident response methodologies
+- MITRE ATT&CK concepts
 
 ### Project Deliverables
  View the Full Incident Report
